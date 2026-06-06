@@ -134,18 +134,6 @@ Existen otras alternativas gratuitas o con créditos promocionales. **Oracle Clo
 
 ---
 
-## 📸 Capturas requeridas
-
-Las capturas deben guardarse en la carpeta [`screenshots`](./screenshots/) con estos nombres:
-
-1. `01-creacion-vm.png`
-2. `02-firewall-nsg.png`
-3. `03-conexion-ssh.png`
-4. `04-nginx-instalado.png`
-5. `05-pagina-web.png`
-
----
-
 ## 📁 Estructura final del repositorio
 
 ```bash
